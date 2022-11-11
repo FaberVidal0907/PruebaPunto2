@@ -1,0 +1,13 @@
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.exe
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.deps.json
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.runtimeconfig.json
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.runtimeconfig.dev.json
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.dll
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.pdb
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.csprojAssemblyReference.cache
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.AssemblyInfoInputs.cache
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.AssemblyInfo.cs
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.csproj.CoreCompileInputs.cache
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.dll
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.pdb
+C:\Users\faber\OneDrive\Documentos\Cosas_programación\C#_aplicaciones\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.genruntimeconfig.cache
